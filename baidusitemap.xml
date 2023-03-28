@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mr-zhangbf.github.io/2021/04/30/javascript/moment/ant-design-shi-she-zhi-datepicker-ri-qi-kong-jian-zhong-wen-xian-shi/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://mr-zhangbf.github.io/2021/05/06/node/node-shi-yong-import-bao-cuo-wen-ti/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/url-loader-html-loader-chu-li-tu-pian-bu-neng-zheng-chang-da-kai/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://mr-zhangbf.github.io/2021/07/20/react/sheng-ming-zhou-qi/sheng-ming-zhou-qi/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://mr-zhangbf.github.io/2022/01/18/vue/vue-mixins/vue-mixins-hun-ru-de-shi-yong-ji-lu/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://mr-zhangbf.github.io/2022/01/04/vue/vue-router/vue-lu-you/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/webpack5-webpack-dev-server-jian-rong/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
+    <loc>http://mr-zhangbf.github.io/2022/11/22/javascript/promise/promise-de-li-jie/</loc>
+    <lastmod>2023-03-28</lastmod>
+  </url>
+  <url>
     <loc>http://mr-zhangbf.github.io/2023/03/28/qian-duan-zhi-shi-dian/li-jie-ye-mian-hui-liu-he-chong-hui/</loc>
     <lastmod>2023-03-28</lastmod>
   </url>
@@ -15,10 +47,6 @@
   <url>
     <loc>http://mr-zhangbf.github.io/2022/12/22/javascript/typescript/typescript-zhong-de-shu-ju-lei-xing/</loc>
     <lastmod>2022-12-29</lastmod>
-  </url>
-  <url>
-    <loc>http://mr-zhangbf.github.io/2022/11/22/javascript/promise/promise-de-li-jie/</loc>
-    <lastmod>2022-11-24</lastmod>
   </url>
   <url>
     <loc>http://mr-zhangbf.github.io/2022/07/23/javascript/ri-chang-zong-jie/defineproperty/</loc>
@@ -37,39 +65,11 @@
     <lastmod>2022-01-22</lastmod>
   </url>
   <url>
-    <loc>http://mr-zhangbf.github.io/2022/01/04/vue/vue-router/vue-lu-you/</loc>
-    <lastmod>2022-01-20</lastmod>
-  </url>
-  <url>
     <loc>http://mr-zhangbf.github.io/2022/01/19/vue/shu-ju-tong-xin/shi-yong-ji-lu/</loc>
     <lastmod>2022-01-20</lastmod>
   </url>
   <url>
-    <loc>http://mr-zhangbf.github.io/2022/01/18/vue/vue-mixins/vue-mixins-hun-ru-de-shi-yong-ji-lu/</loc>
-    <lastmod>2022-01-19</lastmod>
-  </url>
-  <url>
-    <loc>http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/webpack5-webpack-dev-server-jian-rong/</loc>
-    <lastmod>2022-01-19</lastmod>
-  </url>
-  <url>
-    <loc>http://mr-zhangbf.github.io/2021/07/20/react/sheng-ming-zhou-qi/sheng-ming-zhou-qi/</loc>
-    <lastmod>2021-07-20</lastmod>
-  </url>
-  <url>
     <loc>http://mr-zhangbf.github.io/2021/06/23/soft/bat/bat-tian-jia-ruan-jian-you-jian-da-kai-xiang-mu/</loc>
     <lastmod>2021-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/url-loader-html-loader-chu-li-tu-pian-bu-neng-zheng-chang-da-kai/</loc>
-    <lastmod>2021-06-07</lastmod>
-  </url>
-  <url>
-    <loc>http://mr-zhangbf.github.io/2021/05/06/node/node-shi-yong-import-bao-cuo-wen-ti/</loc>
-    <lastmod>2021-06-07</lastmod>
-  </url>
-  <url>
-    <loc>http://mr-zhangbf.github.io/2021/04/30/javascript/moment/ant-design-shi-she-zhi-datepicker-ri-qi-kong-jian-zhong-wen-xian-shi/</loc>
-    <lastmod>2021-04-30</lastmod>
   </url>
 </urlset> 

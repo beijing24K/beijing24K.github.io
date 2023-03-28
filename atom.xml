@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>张本富的博客</title>
+  <title>诗和远方</title>
   
   <subtitle>人有的时候不能太惯着自己</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mr-zhangbf.github.io/"/>
-  <updated>2023-03-28T00:51:09.234Z</updated>
+  <updated>2023-03-28T09:28:29.258Z</updated>
   <id>http://mr-zhangbf.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://mr-zhangbf.github.io/2023/03/28/qian-duan-zhi-shi-dian/li-jie-ye-mian-hui-liu-he-chong-hui/"/>
     <id>http://mr-zhangbf.github.io/2023/03/28/qian-duan-zhi-shi-dian/li-jie-ye-mian-hui-liu-he-chong-hui/</id>
     <published>2023-03-28T00:38:51.000Z</published>
-    <updated>2023-03-28T00:51:09.234Z</updated>
+    <updated>2023-03-28T09:28:29.258Z</updated>
     
     <summary type="html">
     
@@ -34,6 +34,8 @@
       
     
     </summary>
+    
+      <category term="问题锦集" scheme="http://mr-zhangbf.github.io/categories/%E9%97%AE%E9%A2%98%E9%94%A6%E9%9B%86/"/>
     
     
   </entry>
@@ -52,7 +54,15 @@
         
         
           &lt;p&gt;ES5中我们通常定义函数的方法&lt;/p&gt;
-&lt;figure class=&quot;highlight actionscript&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span
+&lt;pre&gt;&lt;code&gt;//函数声明
+function run(){
+    return &#39;函数声明&#39;
+}
+
+//匿名函数
+var test1 = function(){
+    return &#39;匿名函数&#39;
+}
         
       
     
@@ -77,8 +87,10 @@
         
         
           &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;字符串类型&lt;/p&gt;
-&lt;figure class=&quot;highlight rust&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span
+&lt;li&gt;字符串类型&lt;pre&gt;&lt;code&gt;let str:string = &#39;zhangsan&#39;
+str = 50  //重新复制数值类型报错&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;数字类型&lt;pre&gt;&lt;code&gt;let num:number = 30
+num =
         
       
     
@@ -94,7 +106,7 @@
     <link href="http://mr-zhangbf.github.io/2022/11/22/javascript/promise/promise-de-li-jie/"/>
     <id>http://mr-zhangbf.github.io/2022/11/22/javascript/promise/promise-de-li-jie/</id>
     <published>2022-11-22T07:54:04.000Z</published>
-    <updated>2022-11-24T10:11:13.800Z</updated>
+    <updated>2023-03-28T11:11:42.595Z</updated>
     
     <summary type="html">
     
@@ -253,7 +265,7 @@
     <link href="http://mr-zhangbf.github.io/2022/01/18/vue/vue-mixins/vue-mixins-hun-ru-de-shi-yong-ji-lu/"/>
     <id>http://mr-zhangbf.github.io/2022/01/18/vue/vue-mixins/vue-mixins-hun-ru-de-shi-yong-ji-lu/</id>
     <published>2022-01-18T05:54:42.000Z</published>
-    <updated>2022-01-19T06:58:21.522Z</updated>
+    <updated>2023-03-28T11:48:05.847Z</updated>
     
     <summary type="html">
     
@@ -279,7 +291,7 @@
     <link href="http://mr-zhangbf.github.io/2022/01/04/vue/vue-router/vue-lu-you/"/>
     <id>http://mr-zhangbf.github.io/2022/01/04/vue/vue-router/vue-lu-you/</id>
     <published>2022-01-04T05:54:42.000Z</published>
-    <updated>2022-01-20T09:42:31.584Z</updated>
+    <updated>2023-03-28T11:47:42.092Z</updated>
     
     <summary type="html">
     
@@ -305,7 +317,7 @@
     <link href="http://mr-zhangbf.github.io/2021/07/20/react/sheng-ming-zhou-qi/sheng-ming-zhou-qi/"/>
     <id>http://mr-zhangbf.github.io/2021/07/20/react/sheng-ming-zhou-qi/sheng-ming-zhou-qi/</id>
     <published>2021-07-20T09:20:00.000Z</published>
-    <updated>2021-07-20T09:40:47.856Z</updated>
+    <updated>2023-03-28T11:48:27.712Z</updated>
     
     <summary type="html">
     
@@ -353,7 +365,7 @@
     <link href="http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/url-loader-html-loader-chu-li-tu-pian-bu-neng-zheng-chang-da-kai/"/>
     <id>http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/url-loader-html-loader-chu-li-tu-pian-bu-neng-zheng-chang-da-kai/</id>
     <published>2021-06-06T00:57:30.000Z</published>
-    <updated>2021-06-07T03:29:38.067Z</updated>
+    <updated>2023-03-28T11:48:52.206Z</updated>
     
     <summary type="html">
     
@@ -379,7 +391,7 @@
     <link href="http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/webpack5-webpack-dev-server-jian-rong/"/>
     <id>http://mr-zhangbf.github.io/2021/06/06/webpack/chang-jian-wen-ti/webpack5-webpack-dev-server-jian-rong/</id>
     <published>2021-06-06T00:57:30.000Z</published>
-    <updated>2022-01-19T00:58:46.561Z</updated>
+    <updated>2023-03-28T11:45:16.249Z</updated>
     
     <summary type="html">
     
@@ -405,7 +417,7 @@
     <link href="http://mr-zhangbf.github.io/2021/05/06/node/node-shi-yong-import-bao-cuo-wen-ti/"/>
     <id>http://mr-zhangbf.github.io/2021/05/06/node/node-shi-yong-import-bao-cuo-wen-ti/</id>
     <published>2021-05-06T01:38:30.000Z</published>
-    <updated>2021-06-07T03:29:38.065Z</updated>
+    <updated>2023-03-28T11:50:05.722Z</updated>
     
     <summary type="html">
     
@@ -431,7 +443,7 @@
     <link href="http://mr-zhangbf.github.io/2021/04/30/javascript/moment/ant-design-shi-she-zhi-datepicker-ri-qi-kong-jian-zhong-wen-xian-shi/"/>
     <id>http://mr-zhangbf.github.io/2021/04/30/javascript/moment/ant-design-shi-she-zhi-datepicker-ri-qi-kong-jian-zhong-wen-xian-shi/</id>
     <published>2021-04-30T05:54:42.000Z</published>
-    <updated>2021-04-30T06:21:42.697Z</updated>
+    <updated>2023-03-28T11:51:53.895Z</updated>
     
     <summary type="html">
     
@@ -440,8 +452,9 @@
         
         
           &lt;ul&gt;
-&lt;li&gt;方式一：在组件中单独设置  &lt;pre&gt;&lt;code&gt;import locale from &#39;antd/lib/date-picker/locale/zh_CN&#39;; 
-&amp;lt;DatePicker locale={locale}
+&lt;li&gt;&lt;p&gt;方式一：在组件中单独设置  &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;  import locale from &#39;antd/lib/date-picker/locale/zh_CN&#39;; 
+  &amp;lt;DatePicker locale={locale}
         
       
     
