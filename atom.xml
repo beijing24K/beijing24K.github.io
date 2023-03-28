@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mr-zhangbf.github.io/"/>
-  <updated>2022-12-29T02:38:32.876Z</updated>
+  <updated>2023-03-28T00:51:09.234Z</updated>
   <id>http://mr-zhangbf.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>怎么理解回流跟重绘？什么场景下会触发？</title>
+    <link href="http://mr-zhangbf.github.io/2023/03/28/qian-duan-zhi-shi-dian/li-jie-ye-mian-hui-liu-he-chong-hui/"/>
+    <id>http://mr-zhangbf.github.io/2023/03/28/qian-duan-zhi-shi-dian/li-jie-ye-mian-hui-liu-he-chong-hui/</id>
+    <published>2023-03-28T00:38:51.000Z</published>
+    <updated>2023-03-28T00:51:09.234Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;什么是回流和重绘？&quot;&gt;&lt;a href=&quot;#什么是回流和重绘？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>typescript中的函数</title>
@@ -116,7 +138,7 @@
     <link href="http://mr-zhangbf.github.io/2022/07/23/hexo/hexo-zhong-node-ban-ben-wen-ti/"/>
     <id>http://mr-zhangbf.github.io/2022/07/23/hexo/hexo-zhong-node-ban-ben-wen-ti/</id>
     <published>2022-07-23T03:17:00.000Z</published>
-    <updated>2022-11-02T00:39:24.930Z</updated>
+    <updated>2023-03-14T08:32:36.886Z</updated>
     
     <summary type="html">
     
